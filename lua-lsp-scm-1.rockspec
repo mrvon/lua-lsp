@@ -1,10 +1,11 @@
 package = "lua-lsp"
 version = "scm-1"
 source = {
-   url = "git://github.com/Alloyed/lua-lsp"
+   url = "git://github.com/mrvon/lua-lsp",
+   branch = "mrvon",
 }
 description = {
-   homepage = "https://github.com/Alloyed/lua-lsp",
+   homepage = "https://github.com/mrvon/lua-lsp",
    license = "MIT",
    summary = "A Language Server implementation for lua, the language",
    detailed = [[
